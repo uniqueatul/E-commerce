@@ -7,7 +7,7 @@ import NewCollections from "../components/NewCollections/NewCollections"
 
 
 import Footer from '../components/Footer/Footer'
-import Newsletter from '../components/NewsLetter/NewsLetter'
+import Newsletter from '../components/Newsletter/Newsletter'
 
 const Shop = () => {
   return (
@@ -17,7 +17,7 @@ const Shop = () => {
       <Offers />
       <NewCollections />
       <Newsletter/>
-      <Footer />
+      
     </div>
   )
 }
