@@ -3,19 +3,21 @@ import Hero from '../components/Hero/Hero'
 import Popular from '../components/Popular/Popular'
 import Offers from '../components/Offers/Offers'
 import NewCollections from "../components/NewCollections/NewCollections"
-import Newsletter from '../components/NewsLetter/NewsLetter'
-import Footer from '../components/Footer/Footer'
 
+
+
+import Footer from '../components/Footer/Footer'
+import Newsletter from '../components/NewsLetter/NewsLetter'
 
 const Shop = () => {
   return (
     <div>
-      <Hero/>
-      <Popular/>
-      <Offers/>
-      <NewCollections/>
+      <Hero />
+      <Popular />
+      <Offers />
+      <NewCollections />
       <Newsletter/>
-      
+      <Footer />
     </div>
   )
 }
