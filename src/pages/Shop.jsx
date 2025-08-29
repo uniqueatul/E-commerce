@@ -5,7 +5,7 @@ import Offers from '../components/Offers/Offers'
 import NewCollections from "../components/NewCollections/NewCollections"
 import Newsletter from '../components/Newsletter/Newsletter'
 import Footer from '../components/Footer/Footer'
-import Newsletter from '../components/Newsletter/Newsletter'
+// import Newsletter from '../components/Newsletter/Newsletter'
 
 
 const Shop = () => {
