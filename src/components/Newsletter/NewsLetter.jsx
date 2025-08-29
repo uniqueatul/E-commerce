@@ -1,7 +1,7 @@
 import React from 'react'
-import "./Newsletter.css";
+import "./NewsLetter.css";
 
-const Newsletter = () => {
+const NewsLetter = () => {
   return (
     <div className='newsletter'>
         <h1>Get Exclusive Offers on Your Email</h1>
@@ -14,4 +14,4 @@ const Newsletter = () => {
   )
 }
 
-export default Newsletter
+export default NewsLetter
